@@ -1,6 +1,6 @@
 name: 'Google Cloud Storage Bucket Sync (GCP,GCS)'
 description: 'Sync a Github repository with a Google Cloud Storage (GCS) bucket'
-author: 'Jeongtae Kim'
+author: 'Patrick Wyler'
 
 inputs:
   secrets:
